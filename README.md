@@ -14,6 +14,8 @@ and then run
 npm run development
 ```
 
+**NOTE: You need to have mongo running. You can to this from another terminal with `mongod`**
+
 The app is running on `http://localhost:3000`. It has live reloading so you can make any changes both on the server side and the client side and the browser will update instantly. 
 
 It's updated to Babel 7 and Webpack 4 (the book uses deprecated packages). 
